@@ -1,4 +1,8 @@
-## File backup and delete old record python project. Backup and delete ERROR/SUCCESS logging.
+## File backup and delete old record python project. 
+#### Backup and delete ERROR/SUCCESS logging.
+
+- Linux and Windows 10 : Python 3.8
+- Windows XP           : Python 3.4
 
 The project contains 3 files.
 * main.py
